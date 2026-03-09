@@ -1,6 +1,8 @@
 python-telegram-bot==20.8
 requests==2.31.0
 aiohttp==3.9.1
+aiosqlite
 # httpx 由 python-telegram-bot 自动安装兼容版本
+
 
 
